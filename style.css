@@ -1,0 +1,11 @@
+body{
+    /* font-family:Arial, Helvetica, sans-serif ; */
+    font-family:Henju;
+    text-transform: none;
+}
+.top{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    overflow: hidden;
+}
